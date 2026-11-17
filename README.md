@@ -17,7 +17,7 @@ You can check out the live preview here: **https://anfaldjahfa.github.io/Profile
 * **Hosting:** GitHub Pages
 
 ## 📸 Preview
-![Profile Card Preview](https://github.com/AnfalDjahfa/profile-card/blob/main/profilecard.png?raw=true)
+![Profile Card Preview](https://github.com/AnfalDjahfa/profile-card/blob/main/preview.png?raw=true)
 
 ---
 *Developed with 💻 by Anfal - 3rd Year Information Technology Student.*
